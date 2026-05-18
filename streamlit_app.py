@@ -10,6 +10,8 @@ st.write(
     "I'm a data scientist, my NIM is 0706012110013."
 )
 
+st.title("Random Dog Facts")
+
 fun_facts = [
     "Dogs have three eyelids.",
     "A dog's nose print is unique, like a human fingerprint.",
